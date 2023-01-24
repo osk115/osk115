@@ -1,8 +1,8 @@
 [vkontakteUrl]: https://vk.me/osk115
-[vkontakteBadge]: https://img.shields.io/static/v1?label=vk&message=write&style=for-the-badge&color=0077FF&logo=vk
+[vkontakteBadge]: https://i.imgur.com/n8Wd2Vw.png
 
 [telegramUrl]: https://t.me/osk115
-[telegramBadge]: https://img.shields.io/static/v1?label=telegram&message=write&style=for-the-badge&color=26A5E4&logo=telegram
+[telegramBadge]: https://i.imgur.com/TxezM4s.png
 
 Hi, I'm a beginner Java developer. See my pinned repositories to browse my opensource projects.
 
